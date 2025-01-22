@@ -298,7 +298,6 @@ You have received an Excel-exported file in a strange format—a common scenario
 OBS!: You can use regular expressions (regex) alongside the sed command to accomplish these fixes.
 Consult the manual with ```man sed``` or ```info sed```, or search online for examples of `sed` and `regex` usage.
 
-*** Bonus points: Attempt to do this in one **single line** if you feel adventurous!
 Double-check that each column is correctly separated by a comma and that decimals and numbers are displayed properly in the final file.
 Submit the exact command(s) you used to transform orange.csv into a properly formatted file. Be sure you understand what your command does.
 
@@ -392,7 +391,7 @@ You can chain any type of program/script that you can run on the commandline lik
 python my_python_script.py inputfile.txt
 
 ```
-### 5. Transfer files from a local computer to the server using `scp`
+Tip: For future labs you can transfer files from a local computer to the server using `scp`
 
 Just to show you how it's done, try doing the following set of instructions. 
 
