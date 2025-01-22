@@ -392,7 +392,7 @@ You can chain any type of program/script that you can run on the commandline lik
 python my_python_script.py inputfile.txt
 
 ```
-### 5. Transfer files from a local computer to the server using `scp`
+### 5. Tip: In future labs you can transfer files from a local computer to the server using `scp`
 
 Just to show you how it's done, try doing the following set of instructions. 
 
