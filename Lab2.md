@@ -226,7 +226,7 @@ Your directory structure should now look like this:
 - Discuss within your group which species you need to answer your chosen question.
 - Choose an appropriate outgroup species that is distantly related to the groups you are comparing.
 - If you need guidance, use the NCBI Taxonomy Browser.
-- Make a list and aim for around 15-20 species, including at least one outgroup.
+- Make a list and aim for around 8-10 species, including at least one outgroup.
 - The outgroup should be evolutionarily distant but not too far (avoid excessively long branch lengths in the phylogenetic tree).
 
 ## 1.3 **Retrieve Sequences from GenBank**
